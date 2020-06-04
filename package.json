@@ -1,0 +1,14 @@
+{
+	"name": "api-gateway",
+	"version": "1.0.0",
+	"description": "gateway",
+	"author": "arvinyustin99",
+	"main": "gateway.js",
+	"scripts": {
+		"start": "node gateway.js"
+	},
+	"dependencies": {
+		"axios": "^0.19.2",
+		"express": "^4.16.1"
+	}
+}
